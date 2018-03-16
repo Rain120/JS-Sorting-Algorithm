@@ -60,6 +60,8 @@
 
 本书内容几乎完全来源于网络。
 
+[参考地址](https://juejin.im/post/57dcd394a22b9d00610c5ec8#heading-15)
+
 开源项目地址：[https://github.com/hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm)，整理人 [hustcc](https://github.com/hustcc)。
 
 GitBook 在线阅读地址：[https://sort.hust.cc/](https://sort.hust.cc/)。
